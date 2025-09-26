@@ -3,7 +3,7 @@ Movie Recommendation System
 ===========================
 
 Main recommendation algorithms implementation
-Created by: [Your Name]
+Created by: Ayush Jaggi
 Date: September 2024
 """
 
