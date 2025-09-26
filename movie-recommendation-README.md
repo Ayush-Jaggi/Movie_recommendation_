@@ -2,7 +2,7 @@
 
 > *A comprehensive movie recommendation engine using collaborative filtering and content-based approaches*
 
-**Created by: [Your Name]**  
+**Created by: Ayush Jaggi**  
 **Last Updated: September 2024**  
 **Project Status: Complete**
 
