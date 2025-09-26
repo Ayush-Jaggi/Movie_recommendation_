@@ -1,0 +1,33 @@
+# Movie Recommendation System - Requirements
+# Complete dependencies for the movie recommendation project
+
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning & Recommendation Algorithms
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Natural Language Processing (for content-based filtering)
+nltk>=3.8
+textblob>=0.17.1
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+
+# Data Processing & Utilities
+python-dateutil>=2.8.2
+openpyxl>=3.1.0
+
+# Optional: Enhanced Visualizations
+bokeh>=3.2.0
+
+# Development Tools (Optional)
+pytest>=7.4.0
+black>=23.0.0
